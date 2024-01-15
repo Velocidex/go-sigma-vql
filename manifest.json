@@ -1,6 +1,6 @@
 {
-  "name": "Velociraptor Sigma Rules",
-  "short_name": "Velociraptor Sigma Rules",
+  "name": "Velociraptor Curated Sigma",
+  "short_name": "Velociraptor Curated Sigma",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
